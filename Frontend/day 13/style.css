@@ -38,8 +38,14 @@ p {
 #dis:hover {
     background-color: lightblue;
 }
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .container {
+    top: 5vh;
     position: absolute;
     height: auto;
     width: 50vw;

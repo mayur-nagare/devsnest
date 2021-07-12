@@ -14,12 +14,11 @@
     /* position: fixed; */
 }
 #heading{
-    margin-top: 20vh;
+    margin-top: 10vh;
     height: 60px;
     width: 100vh;
-    border: 2px solid white;
-    background-color: lightseagreen;
-    color: white;
+    font-size: 50px;
+    color: black;
     text-align: center;
     border-radius: 7px;
     display: flex;
